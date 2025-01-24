@@ -1,5 +1,7 @@
 {
     "layout": {
+        "width": 1000,
+        "height": 625,
         "font_family": "OCRA",
         "paper_bgcolor": "white",
         "plot_bgcolor": "#F2F2F2",
