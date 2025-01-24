@@ -1,0 +1,45 @@
+{
+    "layout": {
+        "font_family": "OCRA",
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#F2F2F2",
+        "colorway": [
+            "#FF1F5B",
+            "#00CD6C",
+            "#009ADE",
+            "#FFA300",
+            "#9B19F5",
+            "#DC0AB4",
+            "#B17FFF",
+            "#FED7E2"
+        ],
+        "showlegend": true,
+        "legend": {
+            "bgcolor": "white",
+            "bordercolor": "black",
+            "borderwidth": 1
+        },
+        "xaxis": {
+            "showline": true,
+            "linecolor": "#000000",
+            "linewidth": 1,
+            "mirror": true,
+            "showgrid": true,
+            "gridcolor": "rgba(0, 0, 0, 0.7)",
+            "griddash": "dash",
+            "gridwidth": 1,
+            "ticks": "outside"
+        },
+        "yaxis": {
+            "showline": true,
+            "linecolor": "#000000",
+            "linewidth": 1,
+            "mirror": true,
+            "showgrid": true,
+            "gridcolor": "rgba(0, 0, 0, 0.7)",
+            "griddash": "dash",
+            "gridwidth": 1,
+            "ticks": "outside"
+        }
+    }
+}
